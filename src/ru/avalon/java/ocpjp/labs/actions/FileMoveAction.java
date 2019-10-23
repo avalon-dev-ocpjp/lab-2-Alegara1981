@@ -16,8 +16,8 @@ public class FileMoveAction implements Action {
     /**
      * {@inheritDoc}
      */
-    String filename = "D:\\Users\\Bozhenkov\\lab2\\Exam808_SampleQuestion.pdf";
-    String dest = "D:\\Users\\Bozhenkov\\Exam808_SampleQuestion.pdf";
+    String filename = "/users/aa/NetBeansProjects/lab-2-Alegara1981/Exam808_SampleQuestion.pdf";
+    String dest = "/users/aa";
     File source = new File(filename);
     Path p1 = source.toPath();
 

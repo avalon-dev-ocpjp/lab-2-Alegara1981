@@ -14,7 +14,7 @@ import java.io.File;
 public class FileDeleteAction implements Action{
 
      String file = "Exam808_SampleQuestion.pdf";
-    String path = "D:\\Users\\Bozhenkov\\lab2\\";
+    String path = "/users/aa/NetBeansProjects";
     public void delete(){
         
         File f = new File(path, file);
