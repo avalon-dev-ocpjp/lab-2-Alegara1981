@@ -12,7 +12,7 @@ import ru.avalon.java.ocpjp.labs.actions.FileMoveAction;
 /**
  * Лабораторная работа №2
  * <p>
- * Курс: "DEV-OCPJP. Подготовка к сдаче сертификационных экзаменов серии Oracle
+ * Курс: "DEV-OCPJP. Подготовка к сдаче сертификационных экзамено серии Oracle
  * Certified Professional Java Programmer"
  * <p>
  * Тема: "Потоки исполнения (Threads) и многозадачность"
